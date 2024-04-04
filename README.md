@@ -3,6 +3,7 @@ This Hangman game is a classic word guessing game. The player must guess the wor
 
 ## Features
 - Random word selection from a predefined list.
+- Hint relevant to the word is given to the player.
 - Player input validation.
 - Visual representation of the Hangman as incorrect guesses are made.
 - Display of current status: word with correctly guessed letters, remaining attempts, and guessed letters.
@@ -15,12 +16,12 @@ To play this game, simply clone this repository:
 ```bash
 git clone https://github.com/your_username/hangman.git
 ```
+### or
+  you can just download as zip.
 
 ## Usage
-Navigate to the directory where the repository is cloned and run the following command:
+Navigate to the directory where the repository is cloned and run **index.html**.
 
-python hangman.py
-Follow the on-screen instructions to play the game.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -34,7 +35,10 @@ Create a new Pull Request.
 ```
 
 ## Credits
-This Hangman game is created under the guidance of Prateek Balwada by Ankit Bansal and tested by Aniket Singla.
-
+This Hangman game is created by:
+  - Prateek Balwada (Project manager / Dev)
+  - Ankit Bansal (Developer)
+  - Aniekt Singla (Tester)
+    
 ## License
 This project is licensed under the **MIT License**.
