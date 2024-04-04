@@ -1,4 +1,4 @@
-### Hangman Game
+# Hangman Game
 This Hangman game is a classic word guessing game. The player must guess the word by suggesting letters within a certain number of attempts.
 
 ## Features
