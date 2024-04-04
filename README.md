@@ -17,7 +17,10 @@ To play this game, simply clone this repository:
 git clone https://github.com/your_username/hangman.git
 ```
 ### or
-  you can just download as zip.
+  you can open it on your browser - https://prateekbalwada.github.io/HangManGame_BitByte/
+
+## or 
+  Download as zip.
 
 ## Usage
 Navigate to the directory where the repository is cloned and run **index.html**.
