@@ -19,7 +19,7 @@ git clone https://github.com/your_username/hangman.git
 ### or
   you can open it on your browser - https://prateekbalwada.github.io/HangManGame_BitByte/
 
-## or 
+### or 
   Download as zip.
 
 ## Usage
